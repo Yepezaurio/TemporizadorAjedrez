@@ -1,0 +1,10 @@
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.csprojResolveAssemblyReference.cache
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.Form1.resources
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.Properties.Resources.resources
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.csproj.GenerateResource.cache
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.csproj.CoreCompileInputs.cache
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\bin\Debug\TemporizadorAjedrez.exe.config
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\bin\Debug\TemporizadorAjedrez.exe
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\bin\Debug\TemporizadorAjedrez.pdb
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.exe
+c:\users\mauricio yepez\source\repos\TemporizadorAjedrez\TemporizadorAjedrez\obj\Debug\TemporizadorAjedrez.pdb

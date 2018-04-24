@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CronometroAjedrez.Properties
+namespace TemporizadorAjedrez.Properties
 {
 
 

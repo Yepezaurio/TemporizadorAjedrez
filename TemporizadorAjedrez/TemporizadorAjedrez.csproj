@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A5604A1D-18D5-41AC-BD8A-2884F41B30C8}</ProjectGuid>
+    <ProjectGuid>{6B09AEFA-E593-4A3C-8E26-9040B6BD654C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CronometroAjedrez</RootNamespace>
-    <AssemblyName>CronometroAjedrez</AssemblyName>
+    <RootNamespace>TemporizadorAjedrez</RootNamespace>
+    <AssemblyName>TemporizadorAjedrez</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -76,6 +77,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blanca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piezas de ajedres.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
