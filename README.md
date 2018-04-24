@@ -1,7 +1,7 @@
 # TemporizadorAjedrez
 Trabajo de 5 Eventos.
 Integrantes:
-Lopez Aboyte Jesus.
-Melgoza Tamayo Jesus.
-Rodriguez Florez Juan Jesus.
-Rodriguez Yepez Mauricio.
+López Aboyte Jesús.
+Melgoza Tamayo Jesús.
+Rodríguez Florez Juan Jesús.
+Rodríguez Yépez Mauricio.
